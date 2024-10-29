@@ -1,0 +1,6 @@
+git remote informa o alias da nossa branch main 
+git remote -v traz mais informações (a url do fetch pega os conteúdos, push envia os conteúdos)
+git remote show origin mostra ainda mais detalhes:
+git remove remote origin remove o repositório remoto criado 
+git remote rename espelho1 origin2 muda o nome do espelho1
+git fetch origin baixará as branchs do repositório remoto para o local.
